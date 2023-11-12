@@ -1,0 +1,17 @@
+/Users/levonbabaan/Projects/Textred/Textred/bin/Debug/net7.0/Textred
+/Users/levonbabaan/Projects/Textred/Textred/bin/Debug/net7.0/Textred.deps.json
+/Users/levonbabaan/Projects/Textred/Textred/bin/Debug/net7.0/Textred.runtimeconfig.json
+/Users/levonbabaan/Projects/Textred/Textred/bin/Debug/net7.0/Textred.dll
+/Users/levonbabaan/Projects/Textred/Textred/bin/Debug/net7.0/Textred.pdb
+/Users/levonbabaan/Projects/Textred/Textred/obj/Debug/net7.0/Textred.csproj.AssemblyReference.cache
+/Users/levonbabaan/Projects/Textred/Textred/obj/Debug/net7.0/Textred.GeneratedMSBuildEditorConfig.editorconfig
+/Users/levonbabaan/Projects/Textred/Textred/obj/Debug/net7.0/Textred.AssemblyInfoInputs.cache
+/Users/levonbabaan/Projects/Textred/Textred/obj/Debug/net7.0/Textred.AssemblyInfo.cs
+/Users/levonbabaan/Projects/Textred/Textred/obj/Debug/net7.0/Textred.csproj.CoreCompileInputs.cache
+/Users/levonbabaan/Projects/Textred/Textred/obj/Debug/net7.0/Textred.dll
+/Users/levonbabaan/Projects/Textred/Textred/obj/Debug/net7.0/refint/Textred.dll
+/Users/levonbabaan/Projects/Textred/Textred/obj/Debug/net7.0/Textred.pdb
+/Users/levonbabaan/Projects/Textred/Textred/obj/Debug/net7.0/Textred.genruntimeconfig.cache
+/Users/levonbabaan/Projects/Textred/Textred/obj/Debug/net7.0/ref/Textred.dll
+/Users/levonbabaan/Projects/Textred/Textred/bin/Debug/net7.0/Newtonsoft.Json.dll
+/Users/levonbabaan/Projects/Textred/Textred/obj/Debug/net7.0/Textred.csproj.CopyComplete

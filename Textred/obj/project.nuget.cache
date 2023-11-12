@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "hAD/NZirT/Lqed7bx92RKSj9gEpso8xiJMWfUZJUj+x8AjGurVcNx2b0VnUB2sekPsdhHp2rPaLuYyqkun80pw==",
+  "success": true,
+  "projectFilePath": "/Users/levonbabaan/Projects/Textred/Textred/Textred.csproj",
+  "expectedPackageFiles": [
+    "/Users/levonbabaan/.nuget/packages/newtonsoft.json/13.0.3/newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
